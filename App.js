@@ -4,7 +4,6 @@ import Icon from "react-native-vector-icons/FontAwesome6";
 
 const styles = StyleSheet.create({
   scrollContainer: {
-    flexGrow: 1,
     padding: 15,
   },
   mainTitle: {
